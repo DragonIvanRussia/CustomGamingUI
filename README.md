@@ -7,7 +7,8 @@ A program written in Python that overlays widgets on top of the screen.
 
 
 ## A bit of backstory
-It all started in July 2023. I was playing a roblox game called Dummies Vs. Noobs, and I noticed I couldn't handle the bow very well. After some time spent I made a program that overlays custom crosshair. I'm now playing without it because I already kinda reached the limit of skill. 2 months forward I was assigned to make a project using PyQT5 in IT lyceum. And remembering last thing I made I decided to create this. I took the UI inspiration while playing on Android Emulator, MEmu specifically. There's an option to add custom widgets that tap on the specific screen location based on your keypresses. I don't really know if anyone else made the same idea I did, so please tell me if you find a simmilar.
+It all started in July 2023. I was playing a roblox game called Dummies Vs. Noobs, and I noticed I couldn't handle the bow very well. After some time spent I made a program that overlays custom crosshair. I'm now playing without it because I already kinda reached the limit of skill. 2 months forward I was assigned to make a project using PyQT5 in IT lyceum. And remembering last thing I made I decided to create this. I took the UI inspiration while playing on Android Emulator, MEmu specifically. There's an option to add custom widgets that tap on the specific screen location based on your keypresses. I don't really know if anyone else made the same idea I did, and I know I'm not the first, so please tell me if you find a simmilar.
+Simmilar programs I've found so far: CrossOver by lacymorrow.
 
 ## Usage
 I tried to make the UI as intuitive as possible. The concept of linking nodes is simillar to programs like Blender and Scratch(I only remember that XD). There are tips and a tutorial if you still need help.
