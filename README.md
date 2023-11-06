@@ -16,6 +16,11 @@ I tried to make the UI as intuitive as possible. The concept of linking nodes is
 ## Feedback
 If you notice any bugs or crashes while using the program, please tell me. I really want to polish this project and I won't let it go to waste.
 
+## Tutorial
+WORKS ONLY IN WINDOWS
+Install reqired dependencies: sqlite3, PIL, tesserocr, Tesseract-OCR(google), mss, PyQt5
+
+
 ### Concept Art:
 ![](https://media.discordapp.net/attachments/859766354005065751/1154519455087464578/Main_Menu.png?width=960&height=540)
 ![](https://media.discordapp.net/attachments/859766354005065751/1154519454521229322/Editing.png?width=960&height=540)
