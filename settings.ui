@@ -254,7 +254,20 @@
     </font>
    </property>
    <property name="text">
-    <string>Show Tutorial</string>
+    <string>Link OCR Data</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="speed">
+   <property name="geometry">
+    <rect>
+     <x>5</x>
+     <y>190</y>
+     <width>111</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Average speed:</string>
    </property>
   </widget>
  </widget>
