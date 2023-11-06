@@ -1,0 +1,82 @@
+QLabel#name{
+	font: bold 14px
+}
+QPushButton{
+	border-image: url("Sky Blue/button.png");
+	font: bold 14px;
+}
+QPushButton::hover{
+	border-image: url("Sky Blue/hover.png");
+	font: bold 14px;
+}
+QPushButton::pressed{
+	border-image: url("Sky Blue/selected.png"); 
+	font: bold 14px;
+}
+QRadioButton::indicator::unchecked{
+	image: url("Sky Blue/checkbox.png");
+	width: 14px;
+	height: 14px;
+}
+QRadioButton::indicator:unchecked:hover{
+	image: url("Sky Blue/hover_unchecked.png");
+    width: 14px;
+    height: 14px;
+}
+QRadioButton::indicator:unchecked:pressed{
+	image: url("Sky Blue/checked.png");
+	width: 14px;
+	height: 14px;
+}
+QRadioButton::indicator::checked{
+	image: url("Sky Blue/checked.png");
+	width: 14px;
+	height: 14px;
+}
+QRadioButton::indicator:checked:hover{
+	image: url("Sky Blue/hover_checked.png");
+	width: 14px;
+	height: 14px;
+}
+QRadioButton::indicator:checked:pressed{
+	image: url("Sky Blue/checkbox.png");
+}
+QComboBox{
+    background-color: rgb(52, 152, 219);
+    border: 1px solid #aed6f1
+}
+QComboBox QAbstractItemView {
+    border: 1px solid black;
+    background: rgb(52, 152, 219);
+    selection-background-color: #2e86c1;
+}
+QComboBox::drop-down {
+    width: 20px;
+    height: 18px;
+    border-top-right-radius: 1px;
+}
+QComboBox::down-arrow {
+    width: 22px;
+    height: 20px;
+}
+QPushButton#reset_btn::hover{
+	border-image: url("Sky Blue/hover_reset.png");
+	font: bold 14px;
+}
+QPushButton#reset_btn{
+	border-image: url("Sky Blue/button.png");
+	font: bold 14px;
+}
+QPushButton#reset_btn::pressed{
+	border-image: url("Sky Blue/reset.png");
+	font: bold 14px;
+}
+QSlider::groove:horizontal {
+border: 1px solid black;
+background: #88d5ff;
+height: 16px;
+}
+QSlider::handle:horizontal {
+    background: qlineargradient(x1:0, y1:0, x2:1, y2:1, stop:0 #52b7ff, stop:1 #0023af);
+    width: 16px;
+}
